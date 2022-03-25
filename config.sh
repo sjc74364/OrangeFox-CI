@@ -12,7 +12,7 @@ export OUTPUT="OrangeFox*.zip"
 
 # Kernel Source
 # Uncomment the next line if you want to clone a kernel source.
-#export KERNEL_SOURCE="https://gitlab.com/OrangeFox/kernel/mojito.git"
+export KERNEL_SOURCE="https://github.com/Pranav-Talmale/android_kernel_xiaomi_alioth"
 #export PLATFORM="sm6150" # Leave it commented if you want to clone the kernel to kernel/$OEM/$DEVICE
 
 # Not Recommended to Change
