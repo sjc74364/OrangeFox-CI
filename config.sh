@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/Pranav-Talmale/android_device_xiaomi_alioth-ofox.git -b prebuilt-kernel"
+export DT_LINK="https://github.com/Pranav-Talmale/android_device_xiaomi_alioth-ofox.git -b fox_11.0"
 
 export DEVICE="alioth"
 export OEM="xiaomi"
